@@ -1,2 +1,3 @@
 # AutoUpdateDemo
-keywords:Android  自动更新  腾讯bugly 
+   腾讯bugly 版本升级
+
