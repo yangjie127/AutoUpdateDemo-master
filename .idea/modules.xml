@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\AndroidStudioProject02\ProjectDemo13\AutoUpdateDemo-master\AutoUpdateDemo-master\AutoUpdateDemo.iml" filepath="D:\AndroidStudioProject02\ProjectDemo13\AutoUpdateDemo-master\AutoUpdateDemo-master\AutoUpdateDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoUpdateDemo-master.iml" filepath="$PROJECT_DIR$/AutoUpdateDemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\AndroidStudioProject02\ProjectDemo13\AutoUpdateDemo-master\AutoUpdateDemo-master\app\app.iml" filepath="D:\AndroidStudioProject02\ProjectDemo13\AutoUpdateDemo-master\AutoUpdateDemo-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
